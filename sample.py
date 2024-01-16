@@ -1,1 +1,1 @@
-print("Hello, new version")
+print("Hello, v0.0.3")
